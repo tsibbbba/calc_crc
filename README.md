@@ -1,2 +1,2 @@
-# Data Encoding and Packaging
-### This repository contains two utilities that implement encoding and decoding procedures.
+# Integrity Control Methods
+### А program that implements the checksum, as well as two algorithms for calculating CRC.
